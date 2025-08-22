@@ -37,7 +37,7 @@ I’m a **Senior Software Engineer** on a mission to build meaningful, impactful
 
 ---
 
-### 📈 Stats (Interactive!)
+### 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faheemKamboh&show_icons=true&theme=radical&hide=contribs,prs" alt="Faheem Ul Islam's GitHub stats" />
